@@ -2,6 +2,14 @@ apiVersion: v1
 entries:
   binderhub:
   - apiVersion: v1
+    created: "2020-03-13T22:50:27.217551+09:00"
+    description: A helm chart to install Binder
+    digest: 98c46b4acd479e6f795487a0628a39f1f7fda095eacd617ec545201786220cb1
+    name: binderhub
+    urls:
+    - https://yacchin1205.github.io/helm-chart/binderhub-0.2.0-n141.h40f8dec.tgz
+    version: 0.2.0-n141.h40f8dec
+  - apiVersion: v1
     created: "2020-03-13T22:39:51.940391+09:00"
     description: A helm chart to install Binder
     digest: 5f95c4ff91a2eeeda59391c3c1dd3170d0351cf168ea4e451159fd348b64979a
@@ -5180,4 +5188,4 @@ entries:
     urls:
     - https://jupyterhub.github.io/helm-chart/jupyterhub-v0.3.1.tgz
     version: v0.3.1
-generated: "2020-03-13T22:39:51.932809+09:00"
+generated: "2020-03-13T22:50:27.213752+09:00"
